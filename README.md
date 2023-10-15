@@ -86,7 +86,7 @@ bash train.sh {arg1=dymodel} {arg2=pe_type} {arg3=dataset}
 - `dataset` specifies which dataset to train and test on, available ones are: `PACS`,`OfficeHome`, `PACS`,`VLCS`, `TerriaIncognita`,`DomainNet`
 
 # 📌Citation
-If you would like to want to cite our paper, The following bibtex code will be helpful:
+If you would like to cite our works, The following bibtex code will be helpful:
 ```text
 @inproceedings{lin2023pe,
     title={Parameter Exchange for Robust Dynamic Domain Generalization},
