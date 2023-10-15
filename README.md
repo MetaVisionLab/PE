@@ -25,9 +25,9 @@ def train():
 
 ## Pretrained Weights
 Please create a directory named `checkpoints` in current directory, then download following pretrained weights into `checkpoints`: 
-- DDG: [GoogleDrive](https://drive.google.com/file/d/1U183wQI1O7HP2WydOkpQniw2QdPY5ufw/view?usp=sharing) or [Baidu (N/A)]()
-- DRT: [GoogleDrive](https://drive.google.com/file/d/12K6jKu-3DzhLf_8pqY5ZwYY3bMPFveaZ/view?usp=sharing) or [Baidu (N/A)]()
-- ODCONV: [GoogleDrive](https://drive.google.com/file/d/1uhhcBVuI5ZxXBRYFsYGpt7m9zQAigJsV/view?usp=sharing) or [Baidu (N/A)]()
+- DDG: [GoogleDrive](https://drive.google.com/file/d/1U183wQI1O7HP2WydOkpQniw2QdPY5ufw/view?usp=sharing), [OneDrive](https://1drv.ms/u/s!Avbw15URUoiwnagTLnW8A1SN1vuRFg?e=lbWOqH), or [Quark](https://pan.quark.cn/s/011448c5c564)
+- DRT: [GoogleDrive](https://drive.google.com/file/d/12K6jKu-3DzhLf_8pqY5ZwYY3bMPFveaZ/view?usp=sharing), [OneDrive](https://1drv.ms/u/s!Avbw15URUoiwnagSvMIq2PB5groJpw?e=QTV1Ii), or [Quark](https://pan.quark.cn/s/db8539f3b814)
+- ODCONV: [GoogleDrive](https://drive.google.com/file/d/1uhhcBVuI5ZxXBRYFsYGpt7m9zQAigJsV/view?usp=sharing), [OneDrive](https://1drv.ms/u/s!Avbw15URUoiwnagUojPiVjEVH72qlQ?e=ov1Ogn), or [Quark](https://pan.quark.cn/s/8dfbb69adcc3)
 
 # 🎢Run
 After finishing above steps, your directory structure of code may like this:
