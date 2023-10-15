@@ -1,0 +1,12 @@
+INPUT:
+  SIZE: (224, 224)
+  TRANSFORMS: ['random_flip', 'random_translation', 'colorjitter', 'randomgrayscale', 'gaussian_blur', 'normalize']
+
+DATASET:
+  NAME: 'PACS'
+
+MODEL:
+  BACKBONE:
+    NAME: 'resnet50_draac_v3'
+    PRETRAINED: True
+  INIT_WEIGHTS: 'checkpoints/resnet50_draac_v3_pretrained.pth'
