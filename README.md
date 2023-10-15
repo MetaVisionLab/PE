@@ -108,4 +108,4 @@ If you would like to want to cite our paper, The following bibtex code will be h
 - The Terria Incognita dataset is installed from DomainBed - https://github.com/facebookresearch/DomainBed
 
 # ⚖️License
-This source code is released under the MIT license. View from [here]()
+This source code is released under the MIT license. View it [here](LICENSE)
