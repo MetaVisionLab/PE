@@ -39,7 +39,7 @@ DDG_PE/
         resnet50_draac_v4_pretrained.pth
     |–– configs/
     |–– dataset/
-        |–– domainnet
+        |–– domainnet/
             |–– clipart/
             |–– infograph/
             |–– painting/
@@ -47,22 +47,22 @@ DDG_PE/
             |–– real/
             |–– sketch/
             |–– splits/
-        |–– office_home_dg
+        |–– office_home_dg/
             |–– art/
             |–– clipart/
             |–– product/
             |–– real_world/
-        |–– terra_incognita
+        |–– terra_incognita/
             |–– location_38/
             |–– location_43/
             |–– location_46/
             |–– location_100/
-        |–– VLCS
+        |–– VLCS/
             |–– CALTECH/
             |–– LABELME/
             |–– PASCAL/
             |–– SUN/
-        |–– paccs
+        |–– paccs/
             |–– images/
             |–– splits/
     |–– dassl/
