@@ -11,7 +11,7 @@ The main python libraries we use:
 - torch 1.8.1
 - numpy 1.19.2
 
-## Dataset
+## Datasets
 Please create a directory named `datasets` in current directory, then install these following datasets into `datasets`:
 - For [PACS](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#pacs), [VLCS](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#vlcs), [Office-Home](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#office-home-dg), and [DomainNet](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#domainnet) datasets, please view this [site](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#domain-generalization).
 - For the Terria Incognita dataset, please view this [site](https://github.com/facebookresearch/DomainBed#quick-start) to manually download and install it. 
