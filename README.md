@@ -16,7 +16,7 @@ Please create a directory named `datasets` in current directory, then install th
 - For [PACS](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#pacs), [VLCS](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#vlcs), [Office-Home](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#office-home-dg), and [DomainNet](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#domainnet) datasets, please view this [site](https://github.com/KaiyangZhou/Dassl.pytorch/blob/master/DATASETS.md#domain-generalization).
 - For the Terria Incognita dataset, please view this [site](https://github.com/facebookresearch/DomainBed#quick-start) to manually download and install it. 
 
-You can also change the root directory of datasets by modifying the default value of the arguments `--root` in [tools/train.py](tools%2Ftrain.py)[L96]:
+You can also change the root directory of datasets by modifying the default value of the argument `--root` in [tools/train.py](tools%2Ftrain.py)[L96]:
 ```python
 def train():
     parser = argparse.ArgumentParser()
