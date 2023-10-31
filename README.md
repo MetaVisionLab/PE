@@ -90,7 +90,7 @@ If you would like to cite our works, the following bibtex code may be helpful:
 ```text
 @inproceedings{lin2023pe,
     title={Parameter Exchange for Robust Dynamic Domain Generalization},
-    author={Luojun Lin, Zhifeng Shen, Zhishu Sun, Yuanlong Yu, Lei Zhang, and Weijie Chen},
+    author={Lin, Luojun and Shen, Zhifeng and Sun, Zhishu and Yu, Yuanlong and Zhang, Lei and Chen, Weijie},
     booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
     year={2023},
 }
